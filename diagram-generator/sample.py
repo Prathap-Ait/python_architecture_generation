@@ -1342,8 +1342,8 @@ if __name__ == "__main__":
                 "platform": "GCP , Azure",
                 "baseModelName": ["Gpt 4" , "Llama 2" , "Claude 3" , "PaLM 2"],
             },
-            "bucketName": "fusefy-development2-56477c",
-            "folderName": "upwork"
+            "bucketName": "",
+            "folderName": ""
         },
         context=None
     )
